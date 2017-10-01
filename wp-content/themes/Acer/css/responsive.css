@@ -1,0 +1,1276 @@
+/* responsive */
+
+@media (min-width: 0px) and (max-width: 321px){
+	.top-contact-details .col-md-4{
+		margin: 20px 0;
+	}
+	.top-contact-details .col-md-4 .border-r{
+		padding-right: 10px;
+	}
+	.main-slider-img.position-r > img{
+		height: 400px;
+	}
+	.main-slider-content{
+		left: 5%;
+		top: 8%;
+		margin-top: 0;
+	}
+	.main-slider-content > h3{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.main-slider-content > h4{
+		line-height: 22px;
+	}
+	.slide-2{
+		margin-top: 0;
+	}	
+	.slide-2 > h3{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.count-down{
+		top: 0;
+		margin-top: 20px;
+	}
+	#clock{
+		text-align: center;
+	}
+	.count-down .btns{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.count-down .btns > a{
+		clear: both;
+		margin: 20px 0;
+	}
+	.charity-video{
+		margin-bottom: 80px;
+	}
+	.charity-video > iframe{
+		width: 100%;
+		height: 100%;
+	}
+	.trust-o{
+		padding: 40px 0;
+	}
+	.trust-us h5{
+		line-height: 22px;
+	}
+	.trust-us h2{
+		line-height: 32px;
+	}
+	.fund-details > .detail-goal{
+		display: block;
+		margin: 20px 0;
+	}
+	.fund-state{
+		margin-top: 60px !important;
+	}
+	.p-filter-nav > a{
+		padding-right: 10px;
+	}
+	#Container .col-md-15{
+		margin: 30px 0;
+		padding-left: 15px !important;
+	}
+	.project-details-overlay{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.project-details-overlay a.btn-prime{
+		right: 10px;
+		padding: 0 8px;
+		font-size: 11px;
+	}
+	.project-details-overlay h6{
+		font-size: 11px;
+	}
+	.staff-member{
+		margin: 20px 10px;
+	}
+	.staff-hover::before{
+		border-width: 38px 110px;
+		left: 0;
+		top: -76px;
+	}
+	.test-sldier .item > div{
+		display: block;
+		float: none;
+		width: 100%;
+	}
+	.test-sldier .owl-item{
+		padding: 0 5px;
+	}
+	.test-text > img:nth-of-type(1){
+		left: 0;
+	}
+	.test-img::before{
+		border-width: 6px 125px;
+		left: -6px;
+	}
+	.upper-footer > .container > .row > .col-md-3,
+	.upper-footer > .container > .row > .col-md-2{
+		margin: 20px 0;
+	} 
+	.footer-d-v{
+		margin: 20px 0; 
+	}
+	.footer-d-v span{
+		line-height: 22px;
+	}
+	.lower-footer span{
+		line-height: 22px;
+		padding: 12px 0;
+		display: block;
+	}
+	.footer-d-v h5{
+		line-height: 26px;
+	}
+
+	/*404 Page*/
+	.page-title h2{
+		font-size: 22px;
+	}
+	/*About Us*/
+	.page-location{
+		padding: 20px 60px;
+	}
+	.cancer{
+		margin-top: 40px;
+	}
+	.panels{
+		margin-top: 40px;
+	}
+	.panels .panel-title.clearfix > a > span{
+		width: 75%;
+		padding-left: 20px;
+		line-height: 22px;
+		margin: 10px 0 0 0;
+	}
+	.comment-data{
+		margin-top: 20px;
+	}
+	.author-details{
+		margin-top: 20px;
+	}
+	.events-detail h5.r-divider{
+		line-height: 22px;
+	}
+	.featured-events .upcoming-event > img{
+		height: 580px;
+	}
+
+	.upcoming-count-down{
+		padding: 20px;
+	}
+	.up-count-down-s-content > h6{
+		line-height: 22px;
+	}
+	.r-event .r-divider{
+		line-height: 22px;
+	}
+	.resp-marg {
+    margin-top: 85px !important;
+	}
+	#who-we-are {
+		margin-top: 10px;
+	}
+	.recent-causes {
+		padding: 20px 0;
+	}
+		#event-details {
+    margin-bottom: 50px;
+    margin-top:50px;
+	}
+}
+
+@media (min-width: 260px) and (max-width: 321px){
+	header a .logo {
+		display: inline-block;
+	    left: 0;	
+    	margin-left: 30px;
+    	top: 10px;
+    	position: absolute;
+	    height: 100px;
+	    z-index: 0;
+	}
+	.top-contact-details .row {
+		margin-top: 5px !important;
+	}
+	.top-contact-details .col-xs-6 .t-contact-info {
+		
+	  margin-left: -22%;
+	}
+
+	.top-contact-details .col-xs-6 img {
+		display: none;
+	}
+
+	.top-contact-details .col-xs-6 .t-contact-info span {
+		font-size: 0.625em;
+	}
+	.top-contact-details a {
+    	padding: 0 10px;
+		margin-top: 15%;
+	    float: right;
+	}
+	.main-nav{
+		margin-top: 10px !important;
+	}
+
+	.main-slider-img.position-r > img{
+		height: auto;
+    	
+	}
+	.main-slider-content {
+		left: 5%;
+		
+	}
+	.main-slider-content >h2 {
+		font-size: 0.55em;
+		line-height: 22px;
+		padding: 0px 6px;
+
+	}  
+	.main-slider-content > h3{
+		font-size: 13px;
+		line-height: 18px;
+		margin-top: 5px !important;
+	}
+	.main-slider-content > h4{
+		display: none;
+	}
+	.main-slider-content a {
+		border: 1px solid #39b54a;
+		line-height: 16px;
+		padding: 0 14px;
+		font-size: 0.525em;
+	}
+	.main-slider-img .mt-30 {
+		margin-top: 12px !important;
+	}
+
+	.staff-hover::before{
+		border-width: 38px 150px !important; 
+	}
+	.test-img::before{
+		left: -12px !important;
+		border-width: 6px 150px !important;
+	}
+	.contact-us {
+		margin-top: 15px !important;
+		margin-bottom: 20px!important;
+	}
+	.contact-us p {
+		padding: 0 15px !important;
+	}
+	.upper-footer form {
+		margin-right: 20px;
+	}
+	.footer-d-v{
+		margin-top: -80px;
+    	margin-bottom: -65px;
+
+	}
+	#rec_ev {
+		margin-bottom: 50px !important;
+		margin-top: 30px !important;
+	}
+	.resp-marg {
+   	 	margin-top: 85px !important;
+	}
+	.recent-causes {
+    	padding: 20px 0;
+	}
+	.transit-work {
+    	padding: 0;
+	}
+	.acer-fair {
+		padding: 50px 0;
+	}
+	.health-equity {
+    	padding: 50px 0;
+	}
+	.health-equity h3 {
+    	margin-top: 30px;
+	}
+	.center-pad {
+    	padding: 0 15%;
+	}
+	.housing-equity {
+    	padding: 50px 0;
+	}
+
+	#rec_ev {
+	    margin-bottom: 50px !important;
+	    margin-top: 50px !important;
+	}
+	#who-we-are {
+		margin-top: 10px;
+	}
+	.recent-causes {
+		padding: 20px 0;
+	}
+		#ourstaff {
+		padding: 20px 0;
+	}
+	.img_with_text {
+		margin-top: 15px;
+	}
+	#event-details {
+    margin-bottom: 50px;
+    margin-top:50px;
+	}
+}
+@media (min-width: 322px) and (max-width: 370px){
+	 header a .logo {
+		display: inline-block;
+	    left: 0;	
+    	margin-left: 30px;
+    	top: 10px;
+    	position: absolute;
+	    height: 100px;
+	    z-index: 0;
+	}
+	.top-contact-details .row {
+		margin-top: 5px !important;
+	}
+	.top-contact-details .col-xs-6 .t-contact-info {
+		
+	  margin-left: -22%;
+	}
+
+	.top-contact-details .col-xs-6 img {
+		display: none;
+	}
+
+	.top-contact-details .col-xs-6 .t-contact-info span {
+		font-size: 0.825em;
+	}
+	.top-contact-details a {
+		padding: 0 20px;
+    	margin-top: 10%;
+    	float: right;
+	}
+	.main-nav{
+		margin-top: 10px !important;
+	}
+
+	.main-slider-img.position-r > img{
+		height: auto;
+    	
+	}
+	.main-slider-content {
+		left: 5%;
+		top: 8%;
+		margin-top: 0 !important;
+		
+	}
+	.main-slider-content >h2 {
+		font-size: 0.55em;
+		line-height: 22px;
+		padding: 0px 6px;
+
+	}  
+	.main-slider-content > h3{
+		font-size: 13px;
+		line-height: 18px;
+		margin-top: 5px !important;
+	}
+	.main-slider-content > h4{
+		display: none;
+	}
+	.main-slider-content a {
+		border: 1px solid #39b54a;
+		line-height: 16px;
+		padding: 0 14px;
+		font-size: 0.525em;
+	}
+	.main-slider-img .mt-30 {
+		margin-top: 20px !important;
+	}
+	
+	.slide-2{
+		margin-top: 0;
+	}	
+	.slide-2 > h3{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.count-down{
+		top: 0;
+		margin-top: 20px;
+	}
+	#clock{
+		text-align: center;
+	}
+	.count-down .btns{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.count-down .btns > a{
+		clear: both;
+		margin: 20px 0;
+	}
+	.charity-video{
+		margin-bottom: 80px;
+	}
+	.charity-video > iframe{
+		width: 100%;
+		height: 100%;
+	}
+	.trust-o{
+		padding: 40px 0;
+	}
+	.trust-us h5{
+		line-height: 22px;
+	}
+	.trust-us h2{
+		line-height: 32px;
+	}
+	.fund-details > .detail-goal{
+		margin: 0 5px;
+	}
+	.fund-state{
+		margin-top: 60px !important;
+	}
+	.p-filter-nav > a{
+		padding-right: 10px;
+	}
+	#Container .col-md-15{
+		margin: 30px 0;
+		padding-left: 15px !important;
+	}
+	.staff-member{
+		margin: 20px 15px;
+	}
+	.staff-hover::before{
+		border-width: 40px 165px;
+		left: 0;
+	}
+	.test-sldier .item > div{
+		display: block;
+		float: none;
+		width: 100%;
+	}
+	.test-sldier .owl-item{
+		padding: 0 5px;
+	}
+	.test-text > img:nth-of-type(1){
+		left: 0;
+	}
+	.test-img::before{
+		border-width: 6px 152px;
+		left: -12px;
+	}
+	.upper-footer > .container > .row > .col-md-3,
+	.upper-footer > .container > .row > .col-md-2{
+		margin: 20px 0;
+	} 
+	.footer-d-v{
+		margin: 20px 0; 
+	}
+	.footer-d-v span{
+		line-height: 22px;
+	}
+	.lower-footer span{
+		line-height: 22px;
+		padding: 12px 0;
+		display: block;
+	}
+	.footer-d-v h5{
+		line-height: 26px;
+	}
+		/*404 Page*/
+	.page-title h2{
+		font-size: 22px;
+	}
+	/*About Us*/
+	.page-location{
+		padding: 20px 60px;
+	}
+	.cancer{
+		margin-top: 40px;
+	}
+	.panels{
+		margin-top: 40px;
+	}
+	.panels .panel-title.clearfix > a > span{
+		width: 75%;
+		padding-left: 20px;
+		line-height: 22px;
+		margin: 10px 0 0 0;
+	}
+	.comment-data{
+		margin-top: 20px;
+	}
+	.author-details{
+		margin-top: 20px;
+	}
+	.contact-us {
+		margin-top: 15px !important;
+		margin-bottom: 20px!important;
+	}
+	.contact-us p {
+		padding: 0 15px !important;
+	}
+	.events-detail h5.r-divider{
+		line-height: 22px;
+	}
+	.featured-events .upcoming-event > img{
+		height: 580px;
+	}
+	.upcoming-count-down{
+		padding: 20px;
+	}
+	.up-count-down-s-content > h6{
+		line-height: 22px;
+	}
+	.r-event .r-divider{
+		line-height: 22px;
+	}
+	.upper-footer form {
+		margin-right: 20px;
+	}
+	.footer-d-v{
+		margin-top: -80px;
+    	margin-bottom: -65px;
+
+	}
+	#rec_ev {
+		margin-bottom: 50px !important;
+		margin-top: 50px !important;
+	}
+	.recent-causes {
+    	padding: 20px 0;
+	}
+	.transit-work {
+    	padding: 0;
+	}
+	.acer-fair {
+		padding: 50px 0;
+	}
+	.health-equity {
+    	padding: 50px 0;
+	}
+	.health-equity h3 {
+    	margin-top: 30px;
+	}
+	.center-pad {
+    	padding: 0 15%;
+	}
+	.housing-equity {
+    	padding: 50px 0;
+	}
+		#ourstaff {
+		padding: 20px 0;
+	}
+	 .img_with_text {
+		margin-top: 15px;
+	}
+	#who-we-are {
+    	margin-top: 20px;
+	}
+	.img_with_text img {
+		width: 100%;
+	}
+		#event-details {
+    margin-bottom: 50px;
+    margin-top:50px;
+}
+}
+@media (min-width: 371px) and (max-width: 500px){
+	
+	header a .logo {
+		display: inline-block;
+	    left: 0;	
+    	margin-left: 10px;
+    	top: 10px;
+    	position: absolute;
+	    height: 100px;
+	    z-index: 0;
+	}
+	.top-contact-details .row {
+		margin-top: 5px !important;
+	}
+	.top-contact-details .col-xs-6 .t-contact-info {
+		
+	  margin-left: -22%;
+	}
+
+	.top-contact-details .col-xs-6 img {
+		display: none;
+	}
+
+	.top-contact-details .col-xs-6 .t-contact-info span {
+		font-size: 0.825em;
+	}
+	.top-contact-details a {
+		padding: 0 20px;
+    	margin-top: 15%;
+    	float: right;
+	}
+	.main-nav{
+		margin-top: 10px !important;
+	}
+
+	.main-slider-img.position-r > img{
+		height: auto;
+    	
+	}
+	.main-slider-content {
+		left: 5%;
+		margin-top: -15%;
+	}
+	.main-slider-content >h2 {
+		font-size: 0.55em;
+		line-height: 22px;
+		padding: 0px 6px;
+
+	}  
+	.main-slider-content > h3{
+		font-size: 13px;
+		line-height: 18px;
+		margin-top: 5px !important;
+	}
+	.main-slider-content > h4{
+		display: none;
+	}
+	.main-slider-content a {
+		border: 1px solid #39b54a;
+		line-height: 16px;
+		padding: 0 14px;
+		font-size: 0.525em;
+	}
+	.main-slider-img .mt-30 {
+		margin-top: 20px !important;
+	}
+	.slide-2{
+		margin-top: 0;
+	}	
+	.slide-2 > h3{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.count-down{
+		top: 0;
+		margin-top: 20px;
+	}
+	#clock{
+		text-align: center;
+	}
+	.count-down .btns{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.count-down .btns > a{
+		clear: both;
+		margin: 20px 0;
+	}
+	.charity-video{
+		margin-bottom: 80px;
+	}
+	.charity-video > iframe{
+		width: 100%;
+		height: 100%;
+	}
+	#who-we-are {
+		margin-top: 10px;
+	}
+	.recent-causes {
+		padding: 20px 0;
+	}
+
+	.recent-causes .img_with_text {
+		margin-top: 15px;
+	}
+	.recent-causes .img_with_text img {
+		width: 100%;
+	}
+	.trust-o{
+		padding: 40px 0;
+	}
+	.trust-us h5{
+		line-height: 22px;
+	}
+	.trust-us h2{
+		line-height: 32px;
+	}
+	.fund-details > .detail-goal{
+		margin: 0 5px;
+	}
+	.fund-state{
+		margin-top: 60px !important;
+	}
+	.p-filter-nav > a{
+		padding-right: 10px;
+	}
+	#Container .col-md-15{
+		margin: 30px 0;
+		padding-left: 15px !important;
+	}
+	
+	#ourstaff {
+		padding: 20px 0;
+	}
+	#ourvision p {
+		font-size: 1em !important;
+	}
+	.transit-work{
+		padding: 0;
+	}
+	.transit-work h3, p {
+		margin-top: 15px;
+	}
+	.acer-fair {
+		padding: 50px 0;
+	}
+	.acer-fair {
+		margin-top: 40px;
+	}
+	.health-equity {
+		padding: 50px 0;
+	}
+	.health-equity h3{
+		margin-top: 30px;	
+	}
+	.health-equity p{
+		margin-top: 15px;
+	}
+	.housing-equity{
+		padding: 50px 0;
+	}
+
+	.staff-member{
+		margin: 20px 90px;
+	}
+	.staff-hover::before{
+		border-width: 40px 150px;
+		left: 0;
+	}
+	.test-sldier .item > div{
+		display: block;
+		float: none;
+		width: 100%;
+	}
+	.test-sldier .owl-item{
+		padding: 0 5px;
+	}
+	.test-text > img:nth-of-type(1){
+		left: 0;
+	}
+	.test-img::before{
+		border-width: 6px 152px;
+		left: -12px;
+	}
+	
+	.contact-us {
+		margin-top: 15px !important;
+		margin-bottom: 20px!important;
+	}
+	.contact-us p {
+		padding: 0 15px !important;
+	}
+
+	.upper-footer > .container > .row > .col-md-3,
+	.upper-footer > .container > .row > .col-md-2{
+		margin: 10px 0;
+	} 
+	.useful-links {
+		margin-top: 6px;
+	}
+	.upper-footer span {
+		font-size: 0.6em;
+		margin-top: 6px !important;
+	}
+	.upper-footer .useful-links {
+		font-size: 0.5em;
+	}
+	.upper-footer form {
+		margin-right: 20px;
+	}
+
+	.footer-d-v{
+		margin-top: -80px;
+    	margin-bottom: -65px;
+
+	}
+	.footer-d-v span{
+		line-height: 22px;
+	}
+	.lower-footer span{
+		line-height: 22px;
+		padding: 12px 0;
+		display: block;
+	}
+	.footer-d-v h5{
+		line-height: 26px;
+	}
+	.cancer{
+		margin-top: 40px;
+	}
+	.panels{
+		margin-top: 40px;
+	}
+	.comment-data{
+		margin-top: 20px;
+	}
+	.author-details{
+		margin-top: 20px;
+	}
+	.events-detail h5.r-divider{
+		line-height: 22px;
+	}
+	.featured-events .upcoming-event > img{
+		height: 580px;
+	}
+	.upcoming-count-down{
+		padding: 20px;
+	}
+	.up-count-down-s-content > h6{
+		line-height: 22px;
+	}
+	.r-event .r-divider{
+		line-height: 22px;
+	}
+
+	.featured-events {
+		padding: 40px 0;
+	}
+	#rec_ev{
+		margin-bottom:50px !important; 
+		margin-top:50px !important;
+	}
+	.upcoming-count-down {
+		position: absolute;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    height: 100%;
+	    background-color: rgba(59, 59, 59, .75);
+	}
+	.resp-marg {
+		margin-top: 85px !important;
+	}
+	.center-pad {
+    padding: 0 15%;
+	}
+		#event-details {
+    margin-bottom: 50px;
+    margin-top:50px;
+}
+}
+@media (min-width: 501px) and (max-width: 760px){
+
+	.top-contact-details .col-xs-5 img {
+		display: none;
+	}
+	.top-contact-details .col-xs-5 {
+		margin-left: -8%;
+	}
+	.top-contact-details .border-r {
+		border-right: 1px solid rgba(153, 153, 153, 0.5);
+    	margin-left: 15%;
+	}
+
+	.main-nav {
+        background-color: #363636;
+        position: relative;
+    }
+    .main-nav.mt-20::after {
+        background: #fff none repeat scroll 0 0;
+        content: " ";
+        height: 67px;
+        left: -95px;
+        overflow: hidden;
+        position: absolute;
+        top: -17px;
+        transform: skewX(-40deg);
+        width: 45%;
+    }
+
+	.top-contact-details a{
+		float: right;
+    	margin-top: 5%;
+    	float:right;
+	}
+	.main-slider-img.position-r > img{
+		height: auto;
+	}
+	.main-slider-content {
+		left: 15%;
+	    margin-top: -125px;
+	    position: absolute;
+	    top: 50%;
+	}
+	.main-slider-content > h2 {
+		font-size: 18px;
+		line-height: 26px;
+    	padding: 0px 14px;
+	}
+
+	.main-slider-content > h3{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.main-slider-content > h4{
+		line-height: 16px;
+		font-size: 12px;
+	}
+	.main-slider-content a {
+		line-height: 28px;
+    	padding: 2px 14px 0;
+    	border: 2px solid #39b54a;
+	}
+	.slide-2{
+		margin-top: 0;
+	}	
+	.slide-2 > h3{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.count-down{
+		top: 0;
+		margin-top: 20px;
+	}
+	#clock{
+		text-align: center;
+	}
+	.count-down .btns{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.count-down .btns > a{
+		clear: both;
+		margin: 20px 15px;
+	}
+	.charity-video{
+		margin-bottom: 80px;
+	}
+	.charity-video > iframe{
+		width: 100%;
+		height: 100%;
+	}
+	.trust-o{
+		padding: 40px 0;
+	}
+	.trust-us h5{
+		line-height: 22px;
+	}
+	.trust-us h2{
+		line-height: 32px;
+	}
+	.p-filter-nav > a{
+		padding-right: 10px;
+	}
+	#Container .col-md-15{
+		margin: 30px 0;
+		padding-left: 15px !important;
+	}
+	.staff-member{
+		margin: 20px 150px;
+	}
+	.staff-hover::before{
+		border-width: 40px 150px;
+		left: 0;
+	}
+	.test-sldier .item > div{
+		display: block;
+		float: none;
+		width: 100%;
+	}
+	.test-sldier .owl-item{
+		padding: 0 5px;
+	}
+	.test-text > img:nth-of-type(1){
+		left: 0;
+	}
+	.test-img::before{
+		border-width: 6px 152px;
+		left: -12px;
+	}
+	.upper-footer > .container > .row > .col-md-3,
+	.upper-footer > .container > .row > .col-md-2{
+		margin: 20px 0;
+	} 
+	.footer-d-v{
+		margin: 20px 0; 
+	}
+	.footer-d-v span{
+		line-height: 22px;
+	}
+	.lower-footer span{
+		line-height: 22px;
+		padding: 12px 0;
+		display: block;
+	}
+	.footer-d-v h5{
+		line-height: 26px;
+	}
+	.project-details-overlay{
+		padding-left: 15px; 
+	}
+	.cancer{
+		margin-top: 40px;
+	}
+	.panels{
+		margin-top: 40px;
+	}
+	.comment-data{
+		margin-top: 20px;
+	}
+	.author-details{
+		margin-top: 20px;
+	}
+	.events-detail h5.r-divider{
+		line-height: 22px;
+	}
+	.featured-events .upcoming-event > img{
+		height: 580px;
+	}
+	.upcoming-count-down{
+		padding: 20px;
+	}
+	.up-count-down-s-content > h6{
+		line-height: 22px;
+	}
+	.r-event .r-divider{
+		line-height: 22px;
+	}
+	#event-details {
+    margin-bottom: 50px;
+    margin-top:50px;
+}
+}
+@media (min-width: 761px) and (max-width: 990px){
+	.container .navbar {
+		float: right;
+	}
+	.top-contact-details .row{
+		margin-left: -160px;
+	}
+	.top-contact-details .col-md-4{
+		margin: 24px 0;
+		float: left;
+	}
+	.top-contact-details .col-md-4 .border-r{
+		padding-right: 10px;
+	}
+	.top-contact-details a {
+		margin-left: -25px;
+		padding: 0 8px;
+
+	}
+	.main-slider-content{
+		left: 15%;
+	    margin-top: -135px;
+	    position: absolute;
+	    top: 50%;
+	}
+	
+	.main-nav {
+        background-color: #363636;
+        position: relative;
+    }
+    .main-nav.mt-20::after {
+        background: #fff none repeat scroll 0 0;
+        content: " ";
+        height: 67px;
+        left: -95px;
+        overflow: hidden;
+        position: absolute;
+        top: -17px;
+        transform: skewX(-40deg);
+        width: 45%;
+    }
+	.top-contact-details {
+		padding-left: 15% !important;
+	}
+	.main-slider-img.position-r > img{
+		height: auto;
+	}
+	
+	.main-slider-content > h2 {
+		line-height: 25px;
+	    padding: 0 20px;
+	    background-color: #39b54a;
+	    display: inline-block;
+	    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+	    font-size: 16px;
+	}
+	.main-slider-content > h3 {
+		font-size: 22px;
+	    font-weight: 800;
+	    line-height: 32px;
+	    letter-spacing: 2px;
+	    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
+	}
+	.main-slider-content > h4 {
+		font-size: 15px;
+		margin-top: 15px !important;
+	}
+	.main-slider-content a {
+		line-height: 28px;
+	    padding: 3px 18px 0;
+	    color: #39b54a;
+	    border-radius: 10px;
+	    border: 2px solid #39b54a;
+	    display: inline-block;
+	    text-decoration: none;
+	    font-size: 13px;
+	}
+	.btns{
+		text-align: center;
+	}
+	.btns > a{
+		
+	}
+	.btns > a:nth-of-type(2){
+		margin-top: 20px;
+	}
+	.trust-us{
+		margin-top: 100px;
+	}
+	.projects .mix{
+		margin: 20px 0;
+		padding-left: 6px !important; 
+	}
+	.recent-causes{
+		padding: 20px 0;
+	}
+	#ourstaff{
+		padding: 20px 0;
+	}
+	.trust-o {
+		padding: 30px 0;
+	}
+	.contact-us {
+		margin-top: 30px !important;
+		margin-bottom: 0px !important;
+	}
+	.conact-info span {
+		font-size: 0.675em;
+	}
+	
+	.staff-member{
+		margin: 20px 0;
+	} 
+	.staff-overlay{
+		width: 78%;
+	}
+	.staff-hover{
+		width: 78%;
+	}
+	.test-sldier .item > div{
+		display: block;
+		float: none;
+		width: 100%;
+	}
+	.test-text > img:nth-of-type(1){
+		left: 0;
+	}
+	.recent-causes {
+		padding: 50px 0;
+	}
+	.transit-work{
+		padding: 0;
+	}
+	.transit-work h3, p {
+		margin-top: 15px;
+	}
+	.acer-fair {
+		padding: 40px 0;
+	}
+	.acer-fair {
+		margin-top: 40px;
+	}
+	.health-equity {
+		padding: 40px 0;
+	}
+	.health-equity h3{
+		margin-top: 30px;	
+	}
+	.health-equity p{
+		margin-top: 15px;
+	}
+	.housing-equity{
+		padding: 40px 0;
+	}
+	.featured-events {
+		padding: 80px 0;
+	}
+	#rec_ev{
+		margin-bottom:50px !important; 
+		margin-top:50px !important;
+	}
+	#event-details {
+    margin-bottom: 100px;
+    margin-top:100px;
+}
+}
+@media (min-width: 991px) and (max-width: 1199px){
+	.recent-causes {
+		padding: 90px 0;
+	}
+	.transit-work{
+		padding: 0;
+	}
+	.transit-work  p {
+		margin-top: 15px;
+	}
+	.acer-fair {
+		padding: 50px 0;
+	}
+	.acer-fair {
+		margin-top: 40px;
+	}
+	.health-equity {
+		padding: 50px 0;
+	}
+
+	.health-equity p{
+		margin-top: 15px;
+	}
+	.housing-equity{
+		padding: 50px 0;
+	}
+	.nav.navbar-nav > li{
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+	.top-social > a{
+		padding: 0 13px;
+	}
+	.top-contact-details > .row > .col-md-4 > div{
+		padding-right: 15px;
+	}
+	.top-contact-details > .row > .col-md-4{
+		padding-right: 0;
+	}
+	.charity-video iframe{
+		width: 100%;
+	}
+	.staff-hover::before{
+		border-width: 41px 122px;
+	}
+	a.f-donate{
+		padding: 0 18px;
+	}
+
+	.top-contact-details {
+		padding-left: 0 !important;
+	}
+	#event-details {
+    margin-bottom: 150px;
+    margin-top:150px;
+}
+
+}
+
+
+
+
+/* @media (min-width: 1500px) and (max-width: 1990px){
+
+} */
